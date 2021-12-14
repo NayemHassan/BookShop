@@ -19,11 +19,6 @@ The Website is published at [https://nayemhassan.github.io/BookShop](https://nay
 ![screenshot](screenshot-1.jpeg)
 
 
-## Live Demo 🔴
-
-[Live Demo Link](https://gracious-goldberg-aefc53.netlify.app/)
-
-
 ## Getting Started 🏁
 
 To get a local copy up and running, follow these simple example steps.
@@ -51,19 +46,19 @@ If you are viewing this README.md file using a computer, a browser and a connect
 
 - Github: [@NayemHassan](https://github.com/NayemHassan)
 - Telegram: [@NayemHassan](https://t.me/)
-- Email:  
+- Email:  nayem15-12498@diu.edu.bd
 
-👤 **Sayeed Anwar Rifat**
+👤 **Sayed Anwar Rifat**
 
 - Github: [@Rifat](https://github.com/)
 - Telegram: [@Rifat](https://t.me/)
-- Email:  
+- Email:  sayed15-12927@diu.edu.bd
 
 👤 **Raju Ahmed**
 
 - Github: [@Raju](https://github.com/)
 - Telegram: [@Raju](https://t.me/)
-- Email:  
+- Email:  raju15-12672@diu.edu.bd
 
 ## 📝 License
 
