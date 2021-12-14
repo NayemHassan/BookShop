@@ -18,8 +18,6 @@ The Website is published at [https://nayemhassan.github.io/BookShop](https://nay
 
 ![screenshot](screenshot-1.jpeg)
 
-![screenshot](screenshot-2.jpeg)
-
 
 ## Live Demo 🔴
 
